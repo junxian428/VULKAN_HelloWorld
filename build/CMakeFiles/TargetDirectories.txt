@@ -1,0 +1,3 @@
+/home/junxian428/VULKAN2/build/CMakeFiles/VulkanApp.dir
+/home/junxian428/VULKAN2/build/CMakeFiles/edit_cache.dir
+/home/junxian428/VULKAN2/build/CMakeFiles/rebuild_cache.dir
